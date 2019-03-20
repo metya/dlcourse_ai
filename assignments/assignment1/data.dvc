@@ -1,0 +1,7 @@
+md5: bb31ef02a8c4e12bf4f73f62c368fb1b
+outs:
+- cache: true
+  md5: dc5f62be4bf059e2bb0b2cadc4331c6e.dir
+  metric: false
+  path: data
+wdir: .
